@@ -1,12 +1,12 @@
 body {
-  background-color: rgb(247, 216, 247);
+  background-color: rgb(244, 234, 255);
   font-family: "Roboto", sans-serif;
 }
 
 h1 {
-  color: blueviolet;
+  color: rgb(88, 49, 196);
   text-align: center;
-  font-weight: bold;
+  font-size: 52px;
 }
 
 #main {
